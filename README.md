@@ -20,7 +20,8 @@
 ```
 
 # 실행화면
+<div>
 <img src="https://user-images.githubusercontent.com/58409497/74414037-f23d3000-4e83-11ea-8061-e60031097413.jpg" width="300" height="615">
 <img src="https://user-images.githubusercontent.com/58409497/74414035-f1a49980-4e83-11ea-9df5-367da325d8da.jpg" width="300" height="615">
-
+</div>
 
