@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">YH NaverMap</string>
+
+    <!-- ErrorCode.java -->
+    <string name="ERROR401">잘못된 클라이언트 ID를 지정함.\n잘못된 클라이언트 유형을 사용함.\n콘솔에서 앱 패키지 이름을 잘못 등록함.</string>
+    <string name="ERROR429">콘솔에서 Maps 서비스를 선택하지 않음.\n사용한도 초과됨.</string>
+    <string name="ERROR800">클라이언트 ID를 지정하지 않음.</string>
+    
+    <!-- activity_mail.xml -->
+    <string name="LATITUDE_TEXT">위도: </string>
+    <string name="LONGITUDE_TEXT">경도: </string>
+    <string name="LATITUDE_EDIT_HINT">위도입력</string>
+    <string name="LONGITUDE_EDIT_HINT">경도입력</string>
+    <string name="SEARCH">찾기</string>
+
+</resources>
