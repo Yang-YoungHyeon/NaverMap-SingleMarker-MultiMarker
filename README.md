@@ -20,8 +20,7 @@
 ```
 
 # 실행화면
-![map_image1](https://user-images.githubusercontent.com/58409497/74414035-f1a49980-4e83-11ea-9df5-367da325d8da.jpg){: width="50px" height="100px"}
-![map_image2](https://user-images.githubusercontent.com/58409497/74414037-f23d3000-4e83-11ea-8061-e60031097413.jpg){: width="50px" height="100px"}
-
+<img src="https://user-images.githubusercontent.com/58409497/74414035-f1a49980-4e83-11ea-9df5-367da325d8da.jpg" width="100" height="200">
+<img src="://user-images.githubusercontent.com/58409497/74414037-f23d3000-4e83-11ea-8061-e60031097413.jpg" width="100" height="200">
 
 
